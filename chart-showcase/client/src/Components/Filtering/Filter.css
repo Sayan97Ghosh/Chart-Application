@@ -1,0 +1,6 @@
+.filter-main{
+    display:flex;
+    width:70%;
+    gap: 10px;
+    margin: auto;
+}
